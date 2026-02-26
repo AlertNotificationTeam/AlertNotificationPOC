@@ -1,0 +1,8 @@
+{
+  "eventType": "past_due",
+  "customerId": "${customerId}",
+  "loanId": "LN789456",
+  "dueAmount": 15000,
+  "dueDate": "2026-03-01",
+  "generatedAt": "${timestamp}"
+}

@@ -1,0 +1,8 @@
+{
+  "eventType": "loan_disbursed",
+  "customerId": "${customerId}",
+  "loanId": "LN789456",
+  "amount": 250000,
+  "tenureMonths": 36,
+  "disbursedAt": "${timestamp}"
+}

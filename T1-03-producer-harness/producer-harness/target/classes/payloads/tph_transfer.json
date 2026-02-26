@@ -1,0 +1,8 @@
+{
+  "eventType": "tph_transfer",
+  "customerId": "${customerId}",
+  "transactionRef": "TPH456789",
+  "amount": 12000,
+  "status": "SUCCESS",
+  "processedAt": "${timestamp}"
+}

@@ -1,0 +1,8 @@
+{
+  "eventType": "account_created",
+  "customerId": "${customerId}",
+  "accountNumber": "ACC123456",
+  "accountType": "SAVINGS",
+  "balance": 50000,
+  "createdAt": "${timestamp}"
+}
