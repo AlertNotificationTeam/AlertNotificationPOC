@@ -1,0 +1,10 @@
+server:
+  port: 8083
+
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+
+notification:
+  api:
+    token: test-token-123
